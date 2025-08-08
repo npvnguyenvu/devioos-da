@@ -1,4 +1,4 @@
-Write code that even your grandma can understand.Hello, world!Write tests like your life depends on them.Write code that even your grandma can understand.When in doubt, refactor.Code like you care.new dev
+The best debugging strategy is to assume you’re wrong.Write code that even your grandma can understand.Hello, world!Write tests like your life depends on them.Write code that even your grandma can understand.When in doubt, refactor.Code like you care.new dev
 123
 new dev
 123
