@@ -2,3 +2,4 @@ Segmentation fault (core dumped).Just because it compiles doesn’t mean it work
 123
 new dev
 123
+When in doubt, ask ChatGPT.
